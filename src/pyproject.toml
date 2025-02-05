@@ -3,7 +3,7 @@ package-mode = false
 name = "SmartCalc"
 version = "0.3.0"
 description = ""
-authors = ["klotzgal <ggg44466635@gmail.com>"]
+authors = ["andermes <ainurnurtdinov1337@gmail.com>"]
 readme = "../README.md"
 packages = [{include = "src"}]
 
